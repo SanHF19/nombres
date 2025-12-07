@@ -1,23 +1,28 @@
 [
     {
         "id": 1,
-        "name": "John Doe",
-        "age": 15 
+        "Deporte": "Futbol",
+        "Mes": Enero
+        "Ventas": 600000
     },
     {
         "id": 2,
-        "name": "Carlos el pibe valderrama",
-        "age": 60
+        "Deporte": "Basquetbol",
+        "Mes": Febrero
+        "Ventas": 750000
     },
     {
         "id": 3,
-        "name": "Alice in Borderlands",
-        "age": 12
+        "Deporte": "Tenis",
+        "Mes": Enero
+        "Ventas": 427000
     },
     {
         "id": 4,
-        "name": "Will Brown",
-        "age": 10
+        "Deporte": "Futbol Americano",
+        "Mes": Enero
+        "Ventas": 137000
     }
 
 ]
+
