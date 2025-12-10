@@ -1,17 +1,17 @@
 {
   "ventas": {
     "Enero": {
-      "Futbol": 600000,
+      "Futbol": 450000,
       "Basquet": 450000,
       "Voleibol": 300000,
-      "Natacion": 200000,
+      "Natacion": 60000,
       "Tenis": 150000
     },
     "Febrero": {
       "Futbol": 200000,
       "Basquet": 150000,
-      "Voleibol": 50000,
-      "Natacion": 100000,
+      "Voleibol": 124000,
+      "Natacion": 300000,
       "Tenis": 120000
     },
     "Marzo": {
@@ -19,17 +19,18 @@
       "Basquet": 210000,
       "Voleibol": 90000,
       "Natacion": 160000,
-      "Tenis": 140000
+      "Tenis": 1234556
     },
     "Abril": {
-      "Futbol": 500000,
-      "Basquet": 300000,
-      "Voleibol": 120000,
+      "Futbol": 200000,
+      "Basquet": 334000,
+      "Voleibol": 450000,
       "Natacion": 180000,
       "Tenis": 200000
     }
   }
 }
+
 
 
 
